@@ -22,7 +22,6 @@ Tech Stack
 </div>
 
 
-
 <div align=center>
 Tool
 </div>
@@ -34,8 +33,10 @@ Tool
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div>
 
-
-
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<div align=center>
+--------------------
+</div>
+<div align=center>
 
 michaela00u@gmail.com
+</div>
