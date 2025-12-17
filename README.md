@@ -1,8 +1,8 @@
 # Michael
 
+## Tech Stack
 
 <div align=center>
-Tech Stack
 </div>
 <div align=center>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -20,9 +20,11 @@ Tech Stack
 <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
 </div>
 
+---
+
+## Tool
 
 <div align=center>
-Tool
 </div>
 <div align=center>
 <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
@@ -32,9 +34,8 @@ Tool
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div>
 
-<div align=center>
---------------------
-</div>
+---
+
 <div align=center>
 
 michaela00u@gmail.com
