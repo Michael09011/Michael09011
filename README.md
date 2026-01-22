@@ -1,5 +1,7 @@
 # Michael
 
+Licensed physical therapist, mixed Korean-Japanese quota
+
 ## Tech Stack
 
 <div align=center>
