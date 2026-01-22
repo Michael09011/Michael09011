@@ -1,6 +1,6 @@
 # Michael
 
-Licensed physical therapist, mixed Korean-Japanese quota
+Physio Therapist License of South Korea, mixed Korean-Japanese quota
 
 ## Tech Stack
 
