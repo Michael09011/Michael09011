@@ -40,5 +40,5 @@ Physio Therapist License of South Korea, mixed Korean-Japanese quota
 
 <div align=center>
 
-michaela00u@gmail.com
+ [![Telegram](https://img.shields.io/badge/Telegram-Join-blue?logo=telegram)](https://t.me/micaca090)
 </div>
