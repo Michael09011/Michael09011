@@ -41,5 +41,6 @@ Physio Therapist License of South Korea, mixed Korean-Japanese quota
 <div align=center>
 
  [![Telegram](https://img.shields.io/badge/Telegram-Join-blue?logo=telegram)](https://t.me/micaca090)
+ [![LINE](https://img.shields.io/badge/LINE-sh__pta-00C300?style=flat-square&logo=line&logoColor=white)](https://line.me/ti/p/sh_pta)
 </div>
 
